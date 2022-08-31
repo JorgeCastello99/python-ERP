@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="ruta">
+    <file>buscar.png</file>
+    <file>espalda.png</file>
+    <file>flecha.png</file>
+  </qresource>
+</RCC>
